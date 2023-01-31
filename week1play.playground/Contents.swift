@@ -78,7 +78,7 @@ print("It's random like a little fortune cookie")
 print("I'll start with this emoji right here" + clapEmoji + "and the unicode for that will be:")
 print("1F44F")
 print(" ")
-print("I'll add up 1 to that array for the numeric value of the code just like this")
+print("I'll add up 1 to the numeric value of that code just like this")
 print(" ")
 
 //using for loop to add 1 to the initial value and print the result
