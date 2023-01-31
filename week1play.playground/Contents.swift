@@ -19,6 +19,7 @@ let characterAge = "Count the number of this sentence."
 let characterAge2 = "minus 10 ="
 var correctAge = characterAge.count - characterAge2.count
 
+//Self-introduction section
 let intro = """
 Hello, my name is \(firstName) \(familyName)
 and I am \(schoolYear) student in \(gradDepartment) \(gradSchool).
