@@ -2,6 +2,8 @@ import UIKit
 import Foundation
 
 //setting var up for intro
+
+//Personal info
 let firstName = "Angie"
 let familyName = "Kim"
 let schoolYear = "1st year"
@@ -11,6 +13,7 @@ let undergradSchool = "Kookmin University"
 let gradSchool = "NYU"
 var age = "24"
 
+//arrays for age guessing
 var ageGuess = [22, 23, 24, 25, 26, 27, 28]
 ageGuess.append(30)
 ageGuess.append(40)
@@ -31,7 +34,10 @@ even \(ageGuess[6]) or \(ageGuess[7])?
 
 """
 
+//intro section
 print(intro)
+
+//age guessing section
 print(characterAge)
 print("(which is \(characterAge.count), I'll do the math)")
 print("that \(characterAge2) my age, which is \(correctAge)."
@@ -64,7 +70,7 @@ print(" ")
 print(" ")
 
 //emoji fortune cookie section
-
+//I'm happy with the result tbh
 print("Tomorrow I'll be like these emojis.")
 print("It's random like a little fortune cookie")
 
