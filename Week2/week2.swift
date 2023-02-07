@@ -17,7 +17,6 @@ let renderer = UIGraphicsImageRenderer(size: sizing)
 
 let image = renderer.image { (context) in
     img1.draw(in: CGRect(x: 0, y: 0, width: 1024, height: 1024))
-
 }
 
 image
